@@ -1,0 +1,31 @@
+## .NET build outputs
+bin/
+obj/
+artifacts/
+out/
+
+## IDE and editor files
+.vs/
+.vscode/
+.idea/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+## Dependencies and generated package files
+packages/
+*.nupkg
+*.snupkg
+project.lock.json
+project.fragment.lock.json
+
+## Logs and temporary files
+*.log
+*.tmp
+*.cache
+*.bak
+
+## OS files
+.DS_Store
+Thumbs.db
